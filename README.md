@@ -32,8 +32,8 @@ Scanning systems without permission is illegal in most jurisdictions, even witho
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/portpeek.git
-   cd portpeek
+   git clone https://github.com/ankurpatel82108/PortPeek.git
+   cd PortPeek
    ```
 
 2. (Optional) Create a virtual environment:
