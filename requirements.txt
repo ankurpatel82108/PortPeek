@@ -1,0 +1,4 @@
+# PortPeek has no third-party dependencies.
+# It relies only on the Python standard library (socket, sys, datetime).
+#
+# Minimum Python version required: 3.6
